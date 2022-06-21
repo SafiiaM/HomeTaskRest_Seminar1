@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\bin\Debug\net6.0\DZ_Hometask5.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\bin\Debug\net6.0\DZ_Hometask5.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\bin\Debug\net6.0\DZ_Hometask5.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\bin\Debug\net6.0\DZ_Hometask5.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\bin\Debug\net6.0\DZ_Hometask5.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\refint\DZ_Hometask5.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\DZ_Hometask5.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\HomeTaskRest_Seminar1\DZ_Hometask5\obj\Debug\net6.0\ref\DZ_Hometask5.dll
