@@ -5,7 +5,6 @@
 
 
 Console.Write("Введите число: ");
-// int n = 1;
 int m = Convert.ToInt32(Console.ReadLine());
 for (int i = 1; i <= m; i++)
 {
