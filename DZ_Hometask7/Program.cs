@@ -8,6 +8,14 @@
 Console.Write("Введите трехзначное число: ");
 int abc = Convert.ToInt32(Console.ReadLine());
 int c = abc % 10;
-Console.Write(c);
+if (abc < 100 && abc > 999)
+{
+    Console.WriteLine("Некорректные данные");
+}
+else
+{
+    Console.Write(c);
+}
+
 Console.ReadKey();
 
